@@ -1,0 +1,5 @@
+# Files and directories to ignore when publishing to pub.dev
+docs/
+example/build/
+.idea/
+.dart_tool/
