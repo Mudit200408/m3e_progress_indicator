@@ -7,7 +7,7 @@ issue_tracker: https://github.com/Mudit200408/m3e_progress_indicator/issues
 
 environment:
   sdk: ^3.12.1
-  flutter: ">=1.17.0"
+  flutter: ">=3.44.0"
 
 dependencies:
   flutter:
