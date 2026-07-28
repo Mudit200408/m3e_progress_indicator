@@ -31,7 +31,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  m3e_progress_indicator: ^0.0.1
+  m3e_progress_indicator: ^0.0.2
 ```
 
 Import it in your Dart code:
